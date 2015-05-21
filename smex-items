@@ -1,0 +1,24 @@
+
+;; ----- smex-history -----
+(
+ html-mode
+ php-mode
+ query-replace
+ recentf-mode
+ emacs-version
+ customize-group
+ ido-mode
+)
+
+;; ----- smex-data -----
+(
+ (cd . 1)
+ (ido-mode . 1)
+ (customize-group . 1)
+ (ace-jump-done . 1)
+ (emacs-version . 1)
+ (recentf-mode . 1)
+ (query-replace . 1)
+ (php-mode . 1)
+ (html-mode . 2)
+)
